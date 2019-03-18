@@ -53,6 +53,7 @@ end
 def runner
   welcome
   initial_round
-  until initial_round < 21
+  until initial_round > 21
+  
 end
     
